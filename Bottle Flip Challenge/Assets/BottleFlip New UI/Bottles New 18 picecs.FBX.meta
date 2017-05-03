@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 803348a727eee7146ac5f81e682f310d
+timeCreated: 1482240433
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ball Alley Bottle
+    100002: Bottle Blue
+    100004: Bottle Green
+    100006: Bottle Red
+    100008: Bottle Yellow
+    100010: //RootNode
+    100012: Chemical Bottle
+    100014: Cola Bottle
+    100016: Cream Bottle
+    100018: Cup
+    100020: Feeder
+    100022: Jug
+    100024: Juice
+    100026: Prop Bottle
+    100028: Water Bottle
+    100030: water glass
+    100032: Wine glass
+    100034: Wine White Lable Bottle
+    100036: Wine Yellow lable Bottle
+    400000: Ball Alley Bottle
+    400002: Bottle Blue
+    400004: Bottle Green
+    400006: Bottle Red
+    400008: Bottle Yellow
+    400010: //RootNode
+    400012: Chemical Bottle
+    400014: Cola Bottle
+    400016: Cream Bottle
+    400018: Cup
+    400020: Feeder
+    400022: Jug
+    400024: Juice
+    400026: Prop Bottle
+    400028: Water Bottle
+    400030: water glass
+    400032: Wine glass
+    400034: Wine White Lable Bottle
+    400036: Wine Yellow lable Bottle
+    2300000: Ball Alley Bottle
+    2300002: Bottle Blue
+    2300004: Bottle Green
+    2300006: Bottle Red
+    2300008: Bottle Yellow
+    2300010: Chemical Bottle
+    2300012: Cola Bottle
+    2300014: Cream Bottle
+    2300016: Cup
+    2300018: Feeder
+    2300020: Jug
+    2300022: Juice
+    2300024: Prop Bottle
+    2300026: Water Bottle
+    2300028: water glass
+    2300030: Wine glass
+    2300032: Wine White Lable Bottle
+    2300034: Wine Yellow lable Bottle
+    3300000: Ball Alley Bottle
+    3300002: Bottle Blue
+    3300004: Bottle Green
+    3300006: Bottle Red
+    3300008: Bottle Yellow
+    3300010: Chemical Bottle
+    3300012: Cola Bottle
+    3300014: Cream Bottle
+    3300016: Cup
+    3300018: Feeder
+    3300020: Jug
+    3300022: Juice
+    3300024: Prop Bottle
+    3300026: Water Bottle
+    3300028: water glass
+    3300030: Wine glass
+    3300032: Wine White Lable Bottle
+    3300034: Wine Yellow lable Bottle
+    4300000: Bottle Red
+    4300002: Bottle Blue
+    4300004: Bottle Yellow
+    4300006: Bottle Green
+    4300008: Cola Bottle
+    4300010: Cream Bottle
+    4300012: Wine White Lable Bottle
+    4300014: Ball Alley Bottle
+    4300016: Water Bottle
+    4300018: water glass
+    4300020: Juice
+    4300022: Cup
+    4300024: Wine glass
+    4300026: Jug
+    4300028: Chemical Bottle
+    4300030: Wine Yellow lable Bottle
+    4300032: Feeder
+    4300034: Prop Bottle
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
