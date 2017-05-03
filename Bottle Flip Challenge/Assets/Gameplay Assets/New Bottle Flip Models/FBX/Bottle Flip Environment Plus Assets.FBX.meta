@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 86760fdbaf2e72a44aa6ee8536bd10e0
+timeCreated: 1481805060
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Almaari
+    100002: Almaari Red
+    100004: Amp Blue
+    100006: Amplifier
+    100008: Bottle Blue
+    100010: //RootNode
+    100012: Bottle Green
+    100014: Bottle Red
+    100016: Bottle Yellow
+    100018: Chair
+    100020: Chess Box
+    100022: Chess Pink
+    100024: Drawer Files
+    100026: Drawer Files Green
+    100028: Fancy Round Table
+    100030: Fancy Table
+    100032: Gita
+    100034: Gita Green
+    100036: Glass Wood Cabinet
+    100038: Lower Plane
+    100040: Oven
+    100042: Oven Blue
+    100044: PhotometricLight001
+    100046: Raod
+    100048: Road Boader Lower
+    100050: Road Boader Upper
+    100052: Shelf
+    100054: Shelf Pink
+    100056: Table Circle
+    100058: Table Dinner
+    100060: Table Dinner Wood
+    100062: Table Round
+    100064: Table Round Glass
+    100066: Table Square
+    100068: Tv
+    100070: Tv Blue
+    100072: Upper Plane
+    100074: Wardrobe Wood
+    100076: Wardrobe Yellow
+    400000: Almaari
+    400002: Almaari Red
+    400004: Amp Blue
+    400006: Amplifier
+    400008: Bottle Blue
+    400010: //RootNode
+    400012: Bottle Green
+    400014: Bottle Red
+    400016: Bottle Yellow
+    400018: Chair
+    400020: Chess Box
+    400022: Chess Pink
+    400024: Drawer Files
+    400026: Drawer Files Green
+    400028: Fancy Round Table
+    400030: Fancy Table
+    400032: Gita
+    400034: Gita Green
+    400036: Glass Wood Cabinet
+    400038: Lower Plane
+    400040: Oven
+    400042: Oven Blue
+    400044: PhotometricLight001
+    400046: Raod
+    400048: Road Boader Lower
+    400050: Road Boader Upper
+    400052: Shelf
+    400054: Shelf Pink
+    400056: Table Circle
+    400058: Table Dinner
+    400060: Table Dinner Wood
+    400062: Table Round
+    400064: Table Round Glass
+    400066: Table Square
+    400068: Tv
+    400070: Tv Blue
+    400072: Upper Plane
+    400074: Wardrobe Wood
+    400076: Wardrobe Yellow
+    2300000: Almaari
+    2300002: Almaari Red
+    2300004: Amp Blue
+    2300006: Amplifier
+    2300008: Bottle Blue
+    2300010: Bottle Green
+    2300012: Bottle Red
+    2300014: Bottle Yellow
+    2300016: Chair
+    2300018: Chess Box
+    2300020: Chess Pink
+    2300022: Drawer Files
+    2300024: Drawer Files Green
+    2300026: Fancy Round Table
+    2300028: Fancy Table
+    2300030: Gita
+    2300032: Gita Green
+    2300034: Glass Wood Cabinet
+    2300036: Lower Plane
+    2300038: Oven
+    2300040: Oven Blue
+    2300042: Raod
+    2300044: Road Boader Lower
+    2300046: Road Boader Upper
+    2300048: Shelf
+    2300050: Shelf Pink
+    2300052: Table Circle
+    2300054: Table Dinner
+    2300056: Table Dinner Wood
+    2300058: Table Round
+    2300060: Table Round Glass
+    2300062: Table Square
+    2300064: Tv
+    2300066: Tv Blue
+    2300068: Upper Plane
+    2300070: Wardrobe Wood
+    2300072: Wardrobe Yellow
+    3300000: Almaari
+    3300002: Almaari Red
+    3300004: Amp Blue
+    3300006: Amplifier
+    3300008: Bottle Blue
+    3300010: Bottle Green
+    3300012: Bottle Red
+    3300014: Bottle Yellow
+    3300016: Chair
+    3300018: Chess Box
+    3300020: Chess Pink
+    3300022: Drawer Files
+    3300024: Drawer Files Green
+    3300026: Fancy Round Table
+    3300028: Fancy Table
+    3300030: Gita
+    3300032: Gita Green
+    3300034: Glass Wood Cabinet
+    3300036: Lower Plane
+    3300038: Oven
+    3300040: Oven Blue
+    3300042: Raod
+    3300044: Road Boader Lower
+    3300046: Road Boader Upper
+    3300048: Shelf
+    3300050: Shelf Pink
+    3300052: Table Circle
+    3300054: Table Dinner
+    3300056: Table Dinner Wood
+    3300058: Table Round
+    3300060: Table Round Glass
+    3300062: Table Square
+    3300064: Tv
+    3300066: Tv Blue
+    3300068: Upper Plane
+    3300070: Wardrobe Wood
+    3300072: Wardrobe Yellow
+    4300000: Raod
+    4300002: Road Boader Upper
+    4300004: Road Boader Lower
+    4300006: Lower Plane
+    4300008: Upper Plane
+    4300010: Tv
+    4300012: Shelf
+    4300014: Table Dinner Wood
+    4300016: Wardrobe Wood
+    4300018: Drawer Files
+    4300020: Glass Wood Cabinet
+    4300022: Amplifier
+    4300024: Oven
+    4300026: Table Dinner
+    4300028: Table Square
+    4300030: Chair
+    4300032: Gita
+    4300034: Table Round Glass
+    4300036: Table Round
+    4300038: Table Circle
+    4300040: Chess Box
+    4300042: Almaari
+    4300044: Tv Blue
+    4300046: Wardrobe Yellow
+    4300048: Fancy Table
+    4300050: Drawer Files Green
+    4300052: Chess Pink
+    4300054: Oven Blue
+    4300056: Almaari Red
+    4300058: Fancy Round Table
+    4300060: Shelf Pink
+    4300062: Amp Blue
+    4300064: Gita Green
+    4300066: Bottle Red
+    4300068: Bottle Blue
+    4300070: Bottle Yellow
+    4300072: Bottle Green
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

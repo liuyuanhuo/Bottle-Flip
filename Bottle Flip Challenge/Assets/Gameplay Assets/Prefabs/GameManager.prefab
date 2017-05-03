@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1000011961852088}
+  m_IsPrefabParent: 1
+--- !u!1 &1000011961852088
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4000012926496380}
+  - component: {fileID: 114000011079964974}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4000012926496380
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011961852088}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114000011079964974
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011961852088}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35b210225fb0dfa408ca1edd5258cfce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text: {fileID: 0}
+  Distance: {fileID: 0}
+  Player: {fileID: 0}
+  PlayerController: {fileID: 0}
+  uiHandler: {fileID: 0}
+  HurdlesPool: {fileID: 0}
+  targetIndicator: {fileID: 0}
+  HorrizontalRange: {x: -0.49, y: 0.55}
+  YPosition: 0.294
+  FrontRange: {x: 2, y: 3}
+  CoveredDistance: {fileID: 0}
+  FinalDistance: {fileID: 0}
+  controller: {fileID: 0}
+  TotalDistance: 0
+  Tutorial: {fileID: 0}
+  YStartPositions: {x: 7.85, y: 0.294}
+  DumpScenePosition: {x: 0, y: 0, z: 0}
+  Timer: {fileID: 0}
+  Basket: {fileID: 0}
+  BasketPositionRange: {x: 0, y: 0}
+  coins: {fileID: 0}
+  LerpTarget: {fileID: 0}
+  Counter: 0
+  CoinCount: 0
+  Dump: 0
