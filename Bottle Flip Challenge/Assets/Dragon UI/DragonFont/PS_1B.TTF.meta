@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1a72458dd48a1a84dbd4a809bba8dbf6
+timeCreated: 1479449900
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Albertus MT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0c570b6532dc120439c337cdc98bab38, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
