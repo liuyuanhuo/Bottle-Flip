@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 8bdc4da008dd15641bb5093edd017858
+timeCreated: 1482502115
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 6 Corner Table
+    100002: 6 Drawer Rack
+    100004: Box066
+    100006: Box197
+    100008: Cabinet Wood
+    100010: Cabinet Yelow
+    100012: Chair
+    100014: Chess
+    100016: Chess 2
+    100018: Circlular Table
+    100020: Cylinder074
+    100022: Deck Blue
+    100024: Deck White
+    100026: Files Drawer
+    100028: Files Drawer 2
+    100030: Gita
+    100032: Gita 2
+    100034: Gol table
+    100036: Grill Owwen
+    100038: Guest Table
+    100040: //RootNode
+    100042: Owwen 2
+    100044: Safe Almari 1
+    100046: Safe Almari 2
+    100048: Shoe Rack 1
+    100050: Shoe Rack 2
+    100052: Square table Round Edges
+    100054: Square table Straight Edges 1
+    100056: Square table Straight Edges 2
+    100058: Tv Black
+    100060: Tv Blue
+    400000: 6 Corner Table
+    400002: 6 Drawer Rack
+    400004: Box066
+    400006: Box197
+    400008: Cabinet Wood
+    400010: Cabinet Yelow
+    400012: Chair
+    400014: Chess
+    400016: Chess 2
+    400018: Circlular Table
+    400020: Cylinder074
+    400022: Deck Blue
+    400024: Deck White
+    400026: Files Drawer
+    400028: Files Drawer 2
+    400030: Gita
+    400032: Gita 2
+    400034: Gol table
+    400036: Grill Owwen
+    400038: Guest Table
+    400040: //RootNode
+    400042: Owwen 2
+    400044: Safe Almari 1
+    400046: Safe Almari 2
+    400048: Shoe Rack 1
+    400050: Shoe Rack 2
+    400052: Square table Round Edges
+    400054: Square table Straight Edges 1
+    400056: Square table Straight Edges 2
+    400058: Tv Black
+    400060: Tv Blue
+    2300000: 6 Corner Table
+    2300002: 6 Drawer Rack
+    2300004: Box066
+    2300006: Box197
+    2300008: Cabinet Wood
+    2300010: Cabinet Yelow
+    2300012: Chair
+    2300014: Chess
+    2300016: Chess 2
+    2300018: Circlular Table
+    2300020: Cylinder074
+    2300022: Deck Blue
+    2300024: Deck White
+    2300026: Files Drawer
+    2300028: Files Drawer 2
+    2300030: Gita
+    2300032: Gita 2
+    2300034: Gol table
+    2300036: Grill Owwen
+    2300038: Guest Table
+    2300040: Owwen 2
+    2300042: Safe Almari 1
+    2300044: Safe Almari 2
+    2300046: Shoe Rack 1
+    2300048: Shoe Rack 2
+    2300050: Square table Round Edges
+    2300052: Square table Straight Edges 1
+    2300054: Square table Straight Edges 2
+    2300056: Tv Black
+    2300058: Tv Blue
+    3300000: 6 Corner Table
+    3300002: 6 Drawer Rack
+    3300004: Box066
+    3300006: Box197
+    3300008: Cabinet Wood
+    3300010: Cabinet Yelow
+    3300012: Chair
+    3300014: Chess
+    3300016: Chess 2
+    3300018: Circlular Table
+    3300020: Cylinder074
+    3300022: Deck Blue
+    3300024: Deck White
+    3300026: Files Drawer
+    3300028: Files Drawer 2
+    3300030: Gita
+    3300032: Gita 2
+    3300034: Gol table
+    3300036: Grill Owwen
+    3300038: Guest Table
+    3300040: Owwen 2
+    3300042: Safe Almari 1
+    3300044: Safe Almari 2
+    3300046: Shoe Rack 1
+    3300048: Shoe Rack 2
+    3300050: Square table Round Edges
+    3300052: Square table Straight Edges 1
+    3300054: Square table Straight Edges 2
+    3300056: Tv Black
+    3300058: Tv Blue
+    4300000: Tv Black
+    4300002: Shoe Rack 1
+    4300004: Square table Straight Edges 1
+    4300006: Cabinet Wood
+    4300008: Files Drawer
+    4300010: 6 Drawer Rack
+    4300012: Deck White
+    4300014: Grill Owwen
+    4300016: Square table Round Edges
+    4300018: Guest Table
+    4300020: Chair
+    4300022: Gita
+    4300024: Circlular Table
+    4300026: 6 Corner Table
+    4300028: Gol table
+    4300030: Chess
+    4300032: Safe Almari 1
+    4300034: Box066
+    4300036: Gita 2
+    4300038: Shoe Rack 2
+    4300040: Deck Blue
+    4300042: Cylinder074
+    4300044: Owwen 2
+    4300046: Chess 2
+    4300048: Files Drawer 2
+    4300050: Cabinet Yelow
+    4300052: Box197
+    4300054: Tv Blue
+    4300056: Square table Straight Edges 2
+    4300058: Safe Almari 2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
