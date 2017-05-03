@@ -1,0 +1,10 @@
+lastUpgrade=00934
+proj.pluginVersion=0.9.34
+proj.AppId=983328257680
+proj.classDir=Assets
+proj.ConstantsClassName=GoodGames.GPGSIDs
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e983328257680%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.pg.bottle.flip.challenge%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_1%22%3eCgkIkO25l88cEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_2%22%3eCgkIkO25l88cEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_3%22%3eCgkIkO25l88cEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_4%22%3eCgkIkO25l88cEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_5%22%3eCgkIkO25l88cEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_bottle_flip_distance%22%3eCgkIkO25l88cEAIQAA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_dump_the_bottle_dumps%22%3eCgkIkO25l88cEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true
+and.BundleId=com.pg.bottle.flip.challenge
